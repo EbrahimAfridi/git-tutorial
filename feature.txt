@@ -1,1 +1,1 @@
-master conflict two
+feature 1
